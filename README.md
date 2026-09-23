@@ -1,9 +1,9 @@
 ### ☁️ About Me
-🎓 **Hanyang University, Seoul — Computer Science**  
-☁️ Interested in **Cloud Computing · DevOps · System Architecture**  
-🐧 Currently learning **AWS · Kubernetes · Docker · Linux**  
-🔬 Interested in **Cloud Resource Optimization & System Research**
-## 🔧 Technologies
+ **Hanyang University, Seoul — Computer Science**  
+ Interested in **Cloud Computing · DevOps · System Architecture**  
+ Currently learning **AWS · Kubernetes · Docker · Linux**  
+ Interested in **Cloud Resource Optimization & System Research**
+##  Technologies
 
 - **Language**
 
