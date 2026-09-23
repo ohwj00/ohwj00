@@ -3,7 +3,7 @@
  Interested in **Cloud Computing · DevOps · System Architecture**  
  Currently learning **AWS · Kubernetes · Docker · Linux**  
  Interested in **Cloud Resource Optimization & System Research**
-##  Technologies
+##  TECH
 
 - **Language**
 
