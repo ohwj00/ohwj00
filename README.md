@@ -1,4 +1,4 @@
-### ☁️ About Me
+###  Education
  **Hanyang University, Seoul — Computer Science**  
  Interested in **Cloud Computing · DevOps · System Architecture**  
  Currently learning **AWS · Kubernetes · Docker · Linux**  
